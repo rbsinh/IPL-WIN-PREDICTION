@@ -14,7 +14,7 @@ The "IPL Win Predictor" leverages logistic regression to provide insights into t
 
 ## Project Preview
 
-![Capture](https://github.com/rbsinh/ipl-win-predictor/blob/main/bhargav_ipl_sample.png) <!-- Update with an actual image path -->
+![Capture](https://github.com/rbsinh/IPL-WIN-PREDICTION/blob/main/bhargav_ipl_sample.png) <!-- Update with an actual image path -->
 
 ## Explore the Project
 
